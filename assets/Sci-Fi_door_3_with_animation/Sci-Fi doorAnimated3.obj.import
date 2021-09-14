@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Sci-Fi doorAnimated3.obj-9728f52d157b9621b6f929362d263596.mesh"
+
+[deps]
+
+files=[ "res://.import/Sci-Fi doorAnimated3.obj-9728f52d157b9621b6f929362d263596.mesh" ]
+
+source_file="res://assets/Sci-Fi_door_3_with_animation/Sci-Fi doorAnimated3.obj"
+dest_files=[ "res://.import/Sci-Fi doorAnimated3.obj-9728f52d157b9621b6f929362d263596.mesh", "res://.import/Sci-Fi doorAnimated3.obj-9728f52d157b9621b6f929362d263596.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
