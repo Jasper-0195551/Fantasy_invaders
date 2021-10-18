@@ -14,7 +14,6 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
-Main_Menu = "res://Main_Menu.tscn"
 
 [node name="HBoxContainer" type="HBoxContainer" parent="."]
 margin_left = -1.25995
@@ -40,13 +39,12 @@ uppercase = true
 [node name="Button_place" type="VBoxContainer" parent="HBoxContainer/VBoxContainer"]
 margin_top = 18.0
 margin_right = 145.0
-margin_bottom = 18.0
+margin_bottom = 38.0
 alignment = 1
 
-[node name="Button" type="Button" parent="HBoxContainer/VBoxContainer"]
-margin_top = 22.0
+[node name="Button" type="Button" parent="HBoxContainer/VBoxContainer/Button_place"]
 margin_right = 145.0
-margin_bottom = 42.0
+margin_bottom = 20.0
 action_mode = 0
 text = "return to tilte screen"
 script = ExtResource( 2 )
