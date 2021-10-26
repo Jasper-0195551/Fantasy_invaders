@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/499197__16gvanekp__knife-hit.wav-34f5b2d5e6f9f81480463f075cf7efce.sample"
+
+[deps]
+
+source_file="res://Sound effects/499197__16gvanekp__knife-hit.wav"
+dest_files=[ "res://.import/499197__16gvanekp__knife-hit.wav-34f5b2d5e6f9f81480463f075cf7efce.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

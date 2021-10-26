@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/334916__akrythael__bard-melody.wav-baa3eaa34e4c6745d621f0d2f34410f2.sample"
+
+[deps]
+
+source_file="res://Sound effects/334916__akrythael__bard-melody.wav"
+dest_files=[ "res://.import/334916__akrythael__bard-melody.wav-baa3eaa34e4c6745d621f0d2f34410f2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

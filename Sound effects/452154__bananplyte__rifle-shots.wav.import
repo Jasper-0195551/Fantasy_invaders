@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/452154__bananplyte__rifle-shots.wav-71ca1c9d059d7bbc4309a542c235dea4.sample"
+
+[deps]
+
+source_file="res://Sound effects/452154__bananplyte__rifle-shots.wav"
+dest_files=[ "res://.import/452154__bananplyte__rifle-shots.wav-71ca1c9d059d7bbc4309a542c235dea4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

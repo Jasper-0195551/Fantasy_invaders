@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/399034__user391915396__medieval-guitar-loop.wav-d1fc6804d0ef9ddb03e309bde83634e4.sample"
+
+[deps]
+
+source_file="res://Sound effects/399034__user391915396__medieval-guitar-loop.wav"
+dest_files=[ "res://.import/399034__user391915396__medieval-guitar-loop.wav-d1fc6804d0ef9ddb03e309bde83634e4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

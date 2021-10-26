@@ -607,6 +607,8 @@ func process_reloading(delta):
 
 
 func process_UI(delta):
+	# updating player score
+	
 	# UI processing
 	
 	# Set the HUD text

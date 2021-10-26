@@ -29,6 +29,8 @@ var mouse_sensitivity = 0.08
 # A variable to hold the joypad sensitivity (so Player.gd can load it)
 var joypad_sensitivity = 2
 
+# This is what the play starting points are going to be
+var playerScore = 0
 
 # ------------------------------------
 # All of the audio files.

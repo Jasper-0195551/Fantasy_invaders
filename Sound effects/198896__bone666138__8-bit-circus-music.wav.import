@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/198896__bone666138__8-bit-circus-music.wav-05f1ce306ead2684788b9ff8db4ee05e.sample"
+
+[deps]
+
+source_file="res://Sound effects/198896__bone666138__8-bit-circus-music.wav"
+dest_files=[ "res://.import/198896__bone666138__8-bit-circus-music.wav-05f1ce306ead2684788b9ff8db4ee05e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
