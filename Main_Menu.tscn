@@ -159,6 +159,7 @@ custom_fonts/font = SubResource( 5 )
 text = "Quit"
 
 [node name="Level_Select_Menu" type="Panel" parent="."]
+visible = false
 modulate = Color( 1, 1, 1, 0.901961 )
 margin_left = 3.68323
 margin_top = -1.22778
