@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/276963__gfl7__galil-reload-sound.mp3-7cb850d8ba17f4382f0007a40622c1cb.mp3str"
+
+[deps]
+
+source_file="res://Sound effects/276963__gfl7__galil-reload-sound.mp3"
+dest_files=[ "res://.import/276963__gfl7__galil-reload-sound.mp3-7cb850d8ba17f4382f0007a40622c1cb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
