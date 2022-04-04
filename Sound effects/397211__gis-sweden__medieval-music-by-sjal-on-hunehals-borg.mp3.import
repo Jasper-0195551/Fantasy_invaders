@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/397211__gis-sweden__medieval-music-by-sjal-on-hunehals-borg.mp3-6053782686361d99a285f4257925ae6e.mp3str"
+
+[deps]
+
+source_file="res://Sound effects/397211__gis-sweden__medieval-music-by-sjal-on-hunehals-borg.mp3"
+dest_files=[ "res://.import/397211__gis-sweden__medieval-music-by-sjal-on-hunehals-borg.mp3-6053782686361d99a285f4257925ae6e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
